@@ -4,6 +4,7 @@
     "indexes": "firestore.indexes.json"
   },
   "hosting": {
+    "site": "blog-techotaku",
     "public": "public",
     "ignore": [
       "firebase.json",
